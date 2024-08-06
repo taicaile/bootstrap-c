@@ -1,5 +1,10 @@
+# vscode
 .vscode
+# code block
 bin
 obj
 *.depend
 *.layout
+# to ignore the intermedia files
+*.i
+*.s
